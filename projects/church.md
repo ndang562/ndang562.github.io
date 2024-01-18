@@ -1,6 +1,5 @@
-layout: project type: project
-title: CHirch
-# All dates must be 2023-07-14 format!
+
+title: Church
 date: 2023-074-12
 published: false
 
