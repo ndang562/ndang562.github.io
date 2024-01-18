@@ -1,12 +1,13 @@
-layout: project
-type: project
-title: "Cotton"
+---
+layout: essay
+type: essay
+title: "Java"
 date: 2024
 published: true
 labels:
   - Lisp
   - GitHub
-summary: "Java."
+summary: Using Java."
 ---
 I am passionate about JavaScript, considering it not just a programming language but a
 truly thrilling tool in the world of software development. The excitement stems from its ability to
