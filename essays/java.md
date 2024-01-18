@@ -2,7 +2,7 @@ layout: project
 type: project
 title: "Cotton"
 date: 2024
-published: false
+published: true
 labels:
   - Lisp
   - GitHub
