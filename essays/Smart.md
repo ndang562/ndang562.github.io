@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: "Samrt"
-date: 2024
+title: "Smart"
+date: 01-22-2024
 published: true
 labels:
   - engineering
