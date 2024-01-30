@@ -2,15 +2,15 @@
   "basics": {
     "name": "Natalie Dang",
     "label": "Student",
-    "picture": "https://github.com/nataliedang.png",
+    "picture": "https://github.com/dang562.png",
     "email": "dang2@hawaii.edu",
     "phone": "510-710-1187",
-    "website": "https:ndang562/nataliedang.github.io",
+    "website": "https:ndang562.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "dang2", "url": "https:ndang562/nataliedang.github.io"},
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/natalie-dang-051853147/" }
+      { "network": "github", "username": "dang562", "url": "http://github.com/ndan562"},
+      { "network": "linkedin", "username": "ndang562", "url": "https://www.linkedin.com/in/natalie-dang-051853147/" }
     
     ]
   },
