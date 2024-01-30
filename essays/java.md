@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Java"
-date: 2024
+date: date: 2024-01-22
 published: true
 labels:
   - Lisp
