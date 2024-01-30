@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Smart"
-date: 01-22-2024
+date: 2024-01-22
 published: true
 labels:
   - engineering
