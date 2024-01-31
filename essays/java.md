@@ -9,12 +9,15 @@ labels:
   - GitHub
 summary: Using Java."
 ---
+
 I am passionate about JavaScript, considering it not just a programming language but a
 truly thrilling tool in the world of software development. The excitement stems from its ability to
 captivate me with a universal language that extends across diverse platforms.I have familiarity
 with JavaScript from my experiences in high school and community college. While I've acquired
 proficiency in languages like C++ and Python, I find Java to be particularly accessible due to its
 simplicity and straightforward nature.
+
+
 JavaScript is widely regarded as a good programming language, particularly in the realm
 of web development. Its versatility as a scripting language for browsers has established it as a
 crucial tool for crafting dynamic and interactive user interfaces.The flexibility of the language is
@@ -24,6 +27,9 @@ simplicity and ease of learning make it accessible to a broad audience, includin
 experienced developers alike. I believe JavaScript's widespread adoption, adaptability, and robust
 community support contribute to its status as a good programming language for a variety of
 applications.
+
+
+
 I believe that engaging in athletic software engineering can enhance my ability to
 multitask effectively in web application development. By adopting a dynamic approach to
 athleticism, I aim to cultivate the skills necessary to efficiently handle various tasks concurrently
