@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:img/logo.jpg
+image: img/logo.jpg
 title: "School"
 date: 2017
 published: true
