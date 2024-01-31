@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/scimi.jpg
 title: "SCI-MI"
 date: 2017
 published: true
