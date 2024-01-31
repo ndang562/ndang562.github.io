@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/church.jpg
 title: "School"
 date: 2017
 published: true
