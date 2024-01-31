@@ -8,8 +8,9 @@ published: true
 labels:
   - Lisp
   - GitHub
-summary: Church Project."
+summary: "Church Project."
 ---
+
 
 
 <div class="text-center p-4">
