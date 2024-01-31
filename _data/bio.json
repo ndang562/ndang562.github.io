@@ -7,23 +7,27 @@
     "phone": "510-710-1187",
     "website": "https://ndang562.github.io/",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
       { "network": "github", "username": "ndang562", "url": "https://github.com/ndang562"},
       { "network": "linkedin", "username": "ndang562", "url": "https://www.linkedin.com/in/natalie-dang-051853147/" }
-    
     ]
   },
   "interests": [
-    { "name": "Cyber Security"},
+    { "name": "Cyber Security" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "keywords": [ "C", "C++", "Java", "Javascript" ]
-    },
-  
+    }
   ],
   "education": [
     {
@@ -32,12 +36,10 @@
       "studyType": "B.A.",
       "startDate": "2022-08-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
-    {
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
@@ -46,20 +48,18 @@
       "present": "",
       "summary": "",
       "highlights": [
-        "Help with printing, making sure the printers are working",
-        
+        "Help with printing, making sure the printers are working"
       ]
-    }
+    },
     {
-      "company": "United States Coast Gaurd",
+      "company": "United States Coast Guard",
       "position": "Student Intern",
       "startDate": "2019-07-01",
-      "endate": "2019-07-31",
+      "endDate": "2019-07-31",
       "summary": "",
       "highlights": [
-        "Help woth printing, making sure the printers are working",
-        
+        "Help with printing, making sure the printers are working"
       ]
     }
-    }
- 
+  ]
+}
