@@ -8,8 +8,9 @@ labels:
   - engineering
 summary: Using Java."
 ---
-
-<img width="100px" class="rounded float-start pe-4" src="../img/890164AF-A8D1-4CBA-8840-2E9CDE3533A3_1_201_a.jpg">
+<div class="text-center p-4">
+  <img width="400px" src="../img/890164AF-A8D1-4CBA-8840-2E9CDE3533A3_1_201_a.jpg" class="img-thumbnail" >
+</div>
 
 Coding standards provide a framework of guidelines to ensure consistency and structure in programming code. They enclose a variety of aspects, including naming conventions, indentation styles, commenting practices, and much more. While it might seem that focusing on such details is insignificant, the growing impact of adhering to these standards is a codebase that is easier to read, understand, and maintain.With a sizable and complicated codebase, developers can easily move around and understand the code with a consistent structure. This setup encourages teamwork and reduces the chance of errors.Moreover, coding standards provide a common ground for developers, fostering a shared understanding and communication within the development team.
 
