@@ -9,7 +9,6 @@ labels:
 summary: Using Java."
 ---
 <div class="text-center p-4">
-  <img width="400px" src="..img/iStock-1169722511.png" class="img-thumbnail" >
+  <img width="400px" src="../img/iStock-1169722511.png" class="img-thumbnail">
 </div>
-
 
