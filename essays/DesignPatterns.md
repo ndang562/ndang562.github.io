@@ -8,6 +8,9 @@ labels:
   - Design
 summary: Using Java.
 ---
+<div class="text-center p-4">
+  <img width="400px" src="../img/digital.jpg" class="img-thumbnail">
+</div>
 
 ## Releasing Digital Superheroes
 Design patterns are the superheroes of the coding world. They swoop in when you're combatting common problems like how to structure your code for adaptability or how to keep things organized without going crazy. Consider employing the Singleton pattern when you require a sole instance of something. Suddenly, your code becomes cleaner, more maintainable, and more fun to work with. 
