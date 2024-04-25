@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Design Patterns"
-date: 2024-04-24
+date: 2024-04-22
 published: true
 labels:
   - Design
