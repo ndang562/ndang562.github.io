@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: "Smart"
-date: 2024-01-22
+title: "Design Patterns"
+date: 2024-04-24
 published: true
 labels:
   - Design
