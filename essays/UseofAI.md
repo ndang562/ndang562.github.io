@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI"
+title: "The Power of AI"
 date: 2024-02-07
 published: true
 labels:
