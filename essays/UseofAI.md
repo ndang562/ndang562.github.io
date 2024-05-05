@@ -52,7 +52,7 @@ AI tools provided suggestions and corrections while writing Code, improving the 
 AI tools have assisted me in documenting code effectively, ensuring that my codebase remains clear. It has guided me in gaining a deeper understanding  of the code.
 
   14. Quality assurance 
-
+Having an IDE has enabled me to improve my code without needing to rely on ChatGPT.
 
 ### III. Impact on Learning and Understanding:
 AI is really helpful because it can solve problems and tasks quickly, especially complex ones. It's a great tool for improving things and coming up with new ideas. Even though I have access to ChatGPT, I prefer trying to figure things out on my own before asking for help. AI has been used in many real-world projects, showing how flexible  it is for tackling challenges. For example, in healthcare, AI helps with analyzing medical images, diagnosing diseases, and finding new drugs
