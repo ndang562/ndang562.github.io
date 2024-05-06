@@ -2,12 +2,16 @@
 layout: essay
 type: essay
 title: "The Power of AI"
-date: 2024-02-07
+date: 2024-05-07
 published: true
 labels:
-  - engineering
+  - AI
 summary: Using Java."
 ---
+
+<div class="text-center p-4">
+  <img width="400px" src="../img/ai.jpg" class="img-thumbnail" >
+</div>
 
 ## I. Introduction
 AI is becoming increasingly integrated into education, and within the domain of Software Engineering, serving as both a mentor and a driver of innovation. In the ICS 314 course, I've used ChatGPT to assist me in identifying issues in my code that I might have not seen.
@@ -55,10 +59,10 @@ AI tools have assisted me in documenting code effectively, ensuring that my code
 Having an IDE has enabled me to improve my code without needing to rely on ChatGPT.
 
 ### III. Impact on Learning and Understanding:
-AI is really helpful because it can solve problems and tasks quickly, especially complex ones. It's a great tool for improving things and coming up with new ideas. Even though I have access to ChatGPT, I prefer trying to figure things out on my own before asking for help. AI has been used in many real-world projects, showing how flexible  it is for tackling challenges. For example, in healthcare, AI helps with analyzing medical images, diagnosing diseases, and finding new drugs
+AI is really helpful because it can solve problems and tasks quickly, especially complex ones. It's a great tool for improving things and coming up with new ideas. Even though I have access to ChatGPT, I prefer trying to figure things out on my own before asking for help. 
 
 ### IV. Practical Applications:
-
+AI has been used in many real-world projects, showing how flexible  it is for tackling challenges. For example, in healthcare, AI helps with analyzing medical images, diagnosing diseases, and finding new drugs
 
 ### V. Challenges and Opportunities:
 Using AI effectively requires having proper training and understanding of AI tools, including awareness of its capabilities, limitations, and ethical aspects. Continuous learning and staying updated with AI advancements are crucial for maximizing its benefits and addressing potential risks.
