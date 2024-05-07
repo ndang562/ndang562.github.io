@@ -18,6 +18,7 @@ AI is becoming increasingly integrated into education, and within the domain of 
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
+
 1. Experience WODs e.g. E18<br />
 I chose not to use any of the  AI tools  for the WODs and instead used what we were learning to understand the basics of the specified area. When I faced challenges, I used the resources from the course and looked at documentation to help me understand and finish the tasks.
 
