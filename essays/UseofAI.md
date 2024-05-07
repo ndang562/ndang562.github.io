@@ -49,7 +49,7 @@ I have  frequently used ChatGPT to improve my understanding of concepts. For ins
 10.Explaining code 
 AI has been my reliable guide for understanding complex code concepts. Whenever I've struggled or found something tricky to grasp, AI has consistently provided clear explanations and helpful examples to improve my understanding.
 
-11.Writing code <br/>
+11.Writing code 
 AI tools provided suggestions and corrections while writing Code, improving the quality and efficiency of my coding practices. Although it still requires good analysis and is sometimes correct, there are methods that AI can assist and improve on while coding.
 
 12.Documenting code    
