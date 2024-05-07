@@ -19,55 +19,55 @@ AI is becoming increasingly integrated into education, and within the domain of 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-  1. Experience WODs e.g. E18-
+  1. Experience WODs e.g. E18 <br />
 
       I chose not to use any of the  AI tools  for the WODs and instead used what we were learning to understand the basics of the specified area. When I faced challenges, I used the resources from the course and looked at documentation to help me understand and finish the tasks.
 
-  3. In-class Practice WODs-
+  3. In-class Practice WODs <br />
 
 I practiced WODs to improve my problem-solving skills in a limited time. As they weren't graded, I turned to AI for assistance and guidance on tasks I had forgotten how to do.
 
-3. In-class WODs-
+3. In-class WODs <br />
 
  After practicing with experience and in-class WODs, I felt prepared for the actual in-class WODs. During one of the in class WODS,I utilized ChatGPT. It helped me with finding where my mistake was.
 
-  4. Essays-
+  4. Essays <br />
 
 I didn't use AI to compose essays but utilized ChatGPT to help with my grammar. However, there were times where ChatGPT didn’t sound human, so I had to seek help from friends.
 
-  5. Final project-
+  5. Final project <br />
 
 Using AI in the final project was tough. The project had lots of file to look a.  was complicated with lots of connected parts, so ChatGPT didn't work well. I had to copy and paste many code files, which was slow and hard. I discovered it was more effective to review the code myself and rely on my teammates for assistance.
 
-  6. Learning a concept / tutorial-
+  6. Learning a concept / tutorial <br />
 
 When I learn new concepts, I prefer to look at modules or watch YouTube videos. They give me more detailed answers compared to AI, which usually gives a general overview based on the prompt. Sometimes, using AI is challenging because I don't always know what to ask.
 
-  7. Answering a question in class or in Discord-
+  7. Answering a question in class or in Discord <br />
 
 Seeking help from classmates during lectures or doing a brief Google search at home proved beneficial for me. 
 
-  8. Asking or answering a smart-question-
+  8. Asking or answering a smart-question <br />
 
 Questions were open to the entire class, it was easy to seek solutions from peers who have encountered similar issues or had similar questions.
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”-
+  9. Coding example e.g. “give an example of using Underscore .pluck” <br />
 
 I have  frequently used ChatGPT to improve my understanding of concepts. For instance, I asked for coding examples to align the navbar in Olivia website for the React assignment
 
-  10. Explaining code-
+  10. Explaining code <br />
 
 AI has been my reliable guide for understanding complex code concepts. Whenever I've struggled or found something tricky to grasp, AI has consistently provided clear explanations and helpful examples to improve my understanding.
 
-  11. Writing code-
+  11. Writing code <br />
 
 AI tools provided suggestions and corrections while writing Code, improving the quality and efficiency of my coding practices. Although it still requires good analysis and is sometimes correct, there are methods that AI can assist and improve on while coding.
 
-  12. Documenting code-
+  12. Documenting code <br />
       
 AI tools have assisted me in documenting code effectively, ensuring that my codebase remains clear. It has guided me in gaining a deeper understanding  of the code.
 
-  14. Quality assurance-
+  14. Quality assurance <br />
 
 Having an IDE has enabled me to improve my code without needing to rely on ChatGPT.
 
