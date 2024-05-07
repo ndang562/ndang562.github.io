@@ -37,19 +37,19 @@ Using AI in the final project was tough. The project had lots of file to look a.
 6.Learning a concept / tutorial <br />
 When I learn new concepts, I prefer to look at modules or watch YouTube videos. They give me more detailed answers compared to AI, which usually gives a general overview based on the prompt. Sometimes, using AI is challenging because I don't always know what to ask.
 
-7. Answering a question in class or in Discord <br />
+7.Answering a question in class or in Discord <br />
 Seeking help from classmates during lectures or doing a brief Google search at home proved beneficial for me. 
 
-8. Asking or answering a smart-question <br />
+8.Asking or answering a smart-question <br />
 Questions were open to the entire class, it was easy to seek solutions from peers who have encountered similar issues or had similar questions.
 
 9.Coding example e.g. “give an example of using Underscore .pluck” <br />
 I have  frequently used ChatGPT to improve my understanding of concepts. For instance, I asked for coding examples to align the navbar in Olivia website for the React assignment
 
-10.Explaining code <br />
+10.Explaining code <br/>
 AI has been my reliable guide for understanding complex code concepts. Whenever I've struggled or found something tricky to grasp, AI has consistently provided clear explanations and helpful examples to improve my understanding.
 
-11.Writing code <br />
+11.Writing code <br/>
 AI tools provided suggestions and corrections while writing Code, improving the quality and efficiency of my coding practices. Although it still requires good analysis and is sometimes correct, there are methods that AI can assist and improve on while coding.
 
 12.Documenting code <br />     
