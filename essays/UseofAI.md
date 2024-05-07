@@ -23,7 +23,7 @@ I have used AI in class this semester in the following areas:
 
       I chose not to use any of the  AI tools  for the WODs and instead used what we were learning to understand the basics of the specified area. When I faced challenges, I used the resources from the course and looked at documentation to help me understand and finish the tasks.
 
-  3. In-class Practice WODs <br />
+  2. In-class Practice WODs <br />
 
 I practiced WODs to improve my problem-solving skills in a limited time. As they weren't graded, I turned to AI for assistance and guidance on tasks I had forgotten how to do.
 
