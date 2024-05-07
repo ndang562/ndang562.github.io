@@ -19,4 +19,3 @@ Imagine projects as a big dance floor, and Agile project management is like the 
 ## Wrapping Up the Exciting Exploration of UI Design and Project Management
 In conclusion, the journey through this class has illuminated the multifaceted nature of UI design and project management. We've learned that UI design isn't confined to digital platforms but extends its principles seamlessly into physical product design and architectural spaces, emphasizing user experience and accessibility. Moreover, the Agile project management philosophy has shown us the power of collaboration, adaptability, and iterative progress, not just in web-related endeavors but across various projects and industries. By embracing these principles, we're better equipped to create intuitive interfaces, user-friendly products, and dynamic project environments that prioritize user satisfaction and continual improvement.
 
-
