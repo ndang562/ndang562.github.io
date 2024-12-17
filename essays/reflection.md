@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Goals"
+title: "Looking back"
 date: 2024-12-15
 published: true
 labels:
