@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Natalie Dang",
-    "label": "Student",
+    "label": "Recent Computer Science Graduate",
     "picture": "https://github.com/ndang562.png",
     "email": "dang2@hawaii.edu",
     "phone": "510-710-1187",
@@ -15,27 +15,35 @@
       "region": "Hawaii"
     },
     "profiles": [
-      { "network": "github", "username": "ndang562", "url": "https://github.com/ndang562"},
-      { "network": "linkedin", "username": "ndang562", "url": "https://www.linkedin.com/in/natalie-dang-051853147/" }
+      {
+        "network": "GitHub",
+        "username": "ndang562",
+        "url": "https://github.com/ndang562"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ndang562",
+        "url": "https://www.linkedin.com/in/natalie-dang-051853147/"
+      }
     ]
   },
   "interests": [
-    { "name": "Cyber Security" },
+    { "name": "Cybersecurity" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": ["C", "C++", "Java", "JavaScript"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science",
       "studyType": "B.A.",
       "startDate": "2022-08-01",
-      "endDate": "Present",
+      "endDate": "2025-05-01",
       "courses": []
     }
   ],
@@ -45,10 +53,11 @@
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2022-09-01",
-      "present": "",
-      "summary": "",
+      "endDate": "2025-05-01",
+      "summary": "Provided front-line IT support to students and faculty at the University of Hawaii.",
       "highlights": [
-        "Help with printing, making sure the printers are working"
+        "Assisted with printer troubleshooting and ensured print stations remained operational",
+        "Helped users with general IT issues and escalated complex problems to higher-level support"
       ]
     },
     {
@@ -56,9 +65,9 @@
       "position": "Student Intern",
       "startDate": "2019-07-01",
       "endDate": "2019-07-31",
-      "summary": "",
+      "summary": "Completed a short-term summer internship to observe daily operations within the Coast Guard.",
       "highlights": [
-        "Shadow personal to see what thet their day to day life was like in the military"
+        "Shadowed personnel to understand their day-to-day roles and responsibilities"
       ]
     }
   ]
